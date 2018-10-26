@@ -1,6 +1,7 @@
 # 主要学习爬取动态加载的页面，用scrapy+splash渲染器
-### 爬虫一quotes，爬取http://quotes.toscrape.com/js上面的名人名言，
-#### 爬取京东上的书籍信息，关键词为python。
+
+### 爬虫一(quotes)，爬取http://quotes.toscrape.com/js上面的名人名言，
+### 爬虫二(jd_book),爬取京东上关于PYTHON的书籍信息，关键词为python。
 #### 使用scrapy,splash渲染引擎
 
 
