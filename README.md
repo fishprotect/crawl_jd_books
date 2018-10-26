@@ -6,7 +6,7 @@
 
 
 ## 使用方法
-#### 1：$sudo docker run -p 8050:8050 -p 8051:8051 scrapinghub/splash
+#### 1: $sudo docker run -p 8050:8050 -p 8051:8051 scrapinghub/splash
 #### 2: $cd crawl_jd_book_with_splash
 #### 3: $用scrapy相应的爬虫
 
